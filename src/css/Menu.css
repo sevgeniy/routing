@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  padding: 10px 0;
+  background-color: grey;
+  word-wrap: break-word;
+}
+
+.menu--vertical {
+  flex-direction: column;
+}
+
+.menu-item {
+  padding: 0 10px;
+  list-style: none;
+  color: white;
+}
